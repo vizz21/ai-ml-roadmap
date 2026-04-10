@@ -1,4 +1,4 @@
-# Phase 1 Cheat Sheet
+# Week 1 Cheat Sheet
 
 ## NumPy
 - Mean: `np.sum(arr) / len(arr)`
