@@ -4,7 +4,7 @@
 
 ## Progress
 - [x] Week 1 — Python OOP, Generators, Decorators, File I/O, NumPy 
-- [ ] Week 2 — Pandas + EDA
+- [x] Week 2 — Pandas + EDA
 - [ ] Week 3 — Supervised ML
 - [ ] Week 4 — Ensemble Methods
 - [ ] Week 5 — Feature Engineering
@@ -12,3 +12,4 @@
 
 ## Projects
 - Week 1: NumPy Utility Library (mean, variance, std, covariance, correlation, linear regression)
+- Week 2: Titanic EDA: 10+ charts, 5 insights, blog post structure
