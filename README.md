@@ -6,7 +6,7 @@
 - [x] Week 1 - Python OOP, Generators, Decorators, File I/O, NumPy 
 - [x] Week 2 - Pandas + EDA
 - [x] Week 3 - Supervised ML
-- [ ] Week 4 - Ensemble Methods
+- [x] Week 4 - Ensemble Methods
 - [ ] Week 5 - Feature Engineering
 - [ ] Week 6 - Unsupervised ML
 
