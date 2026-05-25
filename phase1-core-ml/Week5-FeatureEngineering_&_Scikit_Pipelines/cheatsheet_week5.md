@@ -50,3 +50,8 @@ from sklearn.inspection import permutation_importance
 # TransformerMixin → gives fit_transform() free
 # You only write fit() and transform()
 # Makes custom transformer plug directly into Pipeline and GridSearchCV
+
+
+## Day 5
+# Pipeline parameter naming: stepname__paramname
+# e.g. 'model__n_estimators', 'imputer__strategy'
